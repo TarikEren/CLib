@@ -2,8 +2,6 @@
 
 Implementations of various data structures, algorithms and more in C. The functions are documented in the header files in detail.
 
-Might add more documentation here.
-
 ## Logger
 * A logger which logs messages onto the console screen. and each log level is coloured using an ANSI escape sequence. 
 * It supports 3 levels:
